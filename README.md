@@ -4,8 +4,8 @@
 <br />
 <br />
 
-I am a ambitous, passionate software engineer from Seattle, WA
-I graduated from Oregon State University with a BS in CS 
+I am an ambitous, passionate Software Engineer from Seattle, WA
+I graduated from Oregon State University with a BS in CS in 2021
 
 Technologies:
 - JavaScript ES6, Python3, C/C++, HTML/CSS
