@@ -1,16 +1,19 @@
-### Hi there 👋
+<a href="https://linkedin.com/in/isaacjensen7">
+  <img align="left" alt="Isaac Jensen - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+</a>
+<br />
+<br />
 
-<!--
-**isaacjensen/isaacjensen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a ambitous, passionate software engineer from Seattle, WA
+I graduated from Oregon State University with a BS in CS 
 
-Here are some ideas to get you started:
+Technologies:
+- JavaScript ES6, Python3, C/C++, HTML/CSS
+- Docker, Flask, Django, Node.js, Express, MongoDB, AWS [EC2, ECS, Lambda, APIGateway, S3, Cloudformation], Concourse CI, Git, Flex, GNUBison
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Also interested in:
+- Working out, staying healthy, making money $$
+
+Cheers,  
+Isaac A. Jensen
+[isaac.jensen.github.io](https://isaacjensen.github.io/)
