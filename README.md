@@ -4,7 +4,7 @@
 <br />
 <br />
 
-I am an ambitous, passionate Software Engineer from Seattle, WA
+I am an ambitous, passionate Software Engineer from Seattle, WA <br>
 I graduated from Oregon State University with a BS in CS in 2021
 
 Technologies:
