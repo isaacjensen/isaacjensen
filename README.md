@@ -16,6 +16,6 @@ Technologies:
 Also interested in:
 - Working out, staying healthy, making money $$
 
-Cheers,  
+Thanks,  
 Isaac Jensen
 [isaac.jensen.github.io](https://isaacjensen.github.io/)
