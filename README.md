@@ -6,8 +6,8 @@
 <br />
 <br />
 
-I am an ambitous, passionate Software Engineer from Seattle, WA <br>
-I graduated from Oregon State University with a BS in CS in 2021
+Ambitous, passionate Software Engineer from Seattle, WA <br>
+Graduated from <b>Oregon State University</b> with a B.S. in CS in 2021
 
 Technologies:
 - JavaScript ES6, Python3, C/C++, HTML/CSS
@@ -17,5 +17,5 @@ Also interested in:
 - Working out, staying healthy, making money $$
 
 Cheers,  
-Isaac A. Jensen
+Isaac Jensen
 [isaac.jensen.github.io](https://isaacjensen.github.io/)
