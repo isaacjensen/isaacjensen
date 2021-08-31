@@ -6,15 +6,11 @@
 <br />
 <br />
 
-Ambitous, passionate Software Engineer from Seattle, WA <br>
 Graduated from <b>Oregon State University</b> with a B.S. in CS in 2021
 
 Technologies:
 - JavaScript ES6, Python3, C/C++, HTML/CSS
 - Docker, Flask, Django, Node.js, Express, MongoDB, AWS [EC2, ECS, Lambda, APIGateway, S3, Cloudformation], Concourse CI, Git, Flex, GNUBison
-
-Also interested in:
-- Working out, staying healthy, making money $$
 
 Thanks,  
 Isaac Jensen
