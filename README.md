@@ -5,13 +5,3 @@
 </a>
 <br />
 <br />
-
-Graduated from <b>Oregon State University</b> with a B.S. in CS in 2021
-
-Technologies:
-- JavaScript ES6, Python3, C/C++, HTML/CSS
-- Docker, Flask, Django, Node.js, Express, MongoDB, AWS [EC2, ECS, Lambda, APIGateway, S3, Cloudformation], Concourse CI, Git, Flex, GNUBison
-
-Thanks,  
-Isaac Jensen
-[isaac.jensen.github.io](https://isaacjensen.github.io/)
